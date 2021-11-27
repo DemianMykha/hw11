@@ -1,0 +1,103 @@
+.photoAndText{
+    background-color:  #62D0DF;
+    ;
+}
+.column1of4{
+    background: #FFE2DE;
+
+}
+.column2of4{
+    background: #C4E769;
+
+}
+.column-turquise{
+    background: #62D0DF;
+
+}
+.column-blue{
+    background: #0052C1;
+
+}
+.column-height-360{
+    height: 260px;
+}
+.column-dark-blue{
+    background: #22356F;
+
+}
+.column-bg-img{
+    background: url(img/joanna-kosinska-340748.png);
+}
+.column-height-480{
+    height: 480px;
+}
+.column-lavender{
+    background: #DEE1FF;
+
+}
+.column-purple{
+    background: #8F00FF;
+
+}
+.column-height-240{
+    height: 240px;
+}
+.p2{
+font-size: 25px;
+line-height: 40px;
+letter-spacing: -0.01em;
+color: #22356F;
+
+
+}
+.p1{
+
+    font-family: Larsseit;
+    font-size: 20px;
+    
+}
+.card-text{
+font-family: Larsseit;
+font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+color: white;
+}
+.c-blue{
+    color: #22356F;
+}
+.logo{
+        
+    background: url(img/bg.png)
+        
+}
+.img{
+    
+    background: #EDFDFF;
+border-radius: 250.159px;
+    transform: rotate(30deg)
+}
+.nav-color{
+    color: #62D0DF;
+}
+.a-decor{
+    text-decoration: none;
+    color: #FAB63E;
+    
+}
+.a-decor:hover{
+    color: #a77e37;
+}
+.btn-h{
+    width: 100px;
+}
+.a-decor-blue{
+    text-decoration: none;
+    color: #62D0DF;
+} 
+.a-decor-blue:hover{
+    color:#3a7981 ;
+}
+.color-black-50{
+    color: grey;
+}
